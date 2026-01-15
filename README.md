@@ -1,4 +1,7 @@
 # Rocket Boost
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1569916f-f347-45b6-a26b-5e90c60d1077" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4063d67a-4628-4fff-9c2d-c9eeebd8c9f9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64f7e5fb-312f-46c1-912c-4272d9ce3276" />
 
 ## Описание проекта
 
